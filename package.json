@@ -1,6 +1,10 @@
 {
   "name": "real-time-chat-app",
+  "description": "Live chatroom",
   "version": "1.0.0",
+  "engines": {
+    "node": "12.11.1"
+  },
   "dependencies": {
     "express": "^4.17.1",
     "socket.io": "^3.0.3"
